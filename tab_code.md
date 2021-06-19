@@ -1,9 +1,11 @@
 ---
+
 title: Code of Conduct
 layout:  null
 tab: true
 order: 2
-tags: code-of-conduct
+tags: Code of Conduct
+
 ---
 
 ## Code of Conduct
